@@ -568,10 +568,10 @@ html .root__3eef0 .topControls_e834ab {
     inset 0px 0px 0px 3px rgba(81, 255, 0, 1);
 }
 
-.member_aa4760[user="numoder"] .nameAndDecorators__389dd:after,
-.member_aa4760[aria-label="numoder, Online"] .nameAndDecorators__389dd:after,
-.member_aa4760[aria-label="numoder, Idle"] .nameAndDecorators__389dd:after,
-.member_aa4760[aria-label="numoder, Do Not Disturb"].nameAndDecorators__389dd:after {
+.member_aa4760[user="avxsu"] .nameAndDecorators__389dd:after,
+.member_aa4760[aria-label="avxsu, Online"] .nameAndDecorators__389dd:after,
+.member_aa4760[aria-label="avxsu, Idle"] .nameAndDecorators__389dd:after,
+.member_aa4760[aria-label="avxsu, Do Not Disturb"].nameAndDecorators__389dd:after {
   background: silver;
   content: ":3";
   color: rgb(255, 255, 255);
